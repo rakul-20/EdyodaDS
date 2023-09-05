@@ -1,0 +1,4 @@
+s = input('Enter a number:')
+r = lambda a : a + 25 
+
+print(r(s)) 
